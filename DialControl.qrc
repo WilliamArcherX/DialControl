@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rc/background.png</file>
+        <file>rc/needle.png</file>
+        <file>rc/needle_shadow.png</file>
+        <file>rc/overlay.png</file>
+    </qresource>
+</RCC>
